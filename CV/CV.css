@@ -1,0 +1,53 @@
+*
+{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.omer{
+	display: flex;
+	justify-content: space-between;
+	margin: 10px;
+	padding: 20px;
+	flex-direction: row;
+}
+
+.part1{
+	display: flex;
+	justify-content: space-between;
+	margin: 10px;
+	padding: 20px;
+	flex-direction: row;
+	align-items: flex-start;
+}
+}
+.part2{
+    display: flex;
+	justify-content: space-between;
+	margin: 10px;
+	padding: 20px;
+	flex-direction: row;
+}
+.omer div, .part1 div, .part2 div{
+	margin: 10px;
+	padding: 20px;
+	border: solid black;
+}
+.Education div{
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-evenly;
+
+}
+.uofk{
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-evenly;
+
+}
+.polimi{
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-evenly;
+}
+
